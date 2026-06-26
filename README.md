@@ -74,8 +74,7 @@
 <br>
 
 <div align="center">
-  <h3>🏆 GitHub Trophies</h3>
-  <img src="https://github-profile-trophy.vercel.app/?username=agvatsal1312&theme=darkhub&no-frame=true&margin-w=8&column=7" alt="GitHub Trophies" />
+  
   <br><br>
   <img src="https://komarev.com/ghpvc/?username=agvatsal1312&style=flat-square&color=blue&label=Profile+Views" alt="Profile Views" />
 </div>
